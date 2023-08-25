@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692983588 source:c:\users\eltonpc\desktop\resume\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<fstream>
+
